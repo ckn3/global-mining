@@ -1,0 +1,34 @@
+base_site,image_count,country,continent,split
+cameroon_kadei_river_batouri_agm_region,201,Cameroon,Africa,train
+drc_lindi_river_upper_agm_region,150,Democratic Republic of the Congo,Africa,val
+mali_faleme_upper,271,Mali,Africa,train
+mozambique_manica_TSTM,365,Mozambique,Africa,train
+nigeria_ijesa_agm_region_TSTM,163,Nigeria,Africa,val
+senegal_river_gambie_agm_region_TSTM,49,Senegal,Africa,test
+sierra_leone_pampan_river_gold_diamond_region,144,Sierra Leone,Africa,test
+indonesia_madreng_agm_region,326,Indonesia,Asia,train
+indonesia_kulu_agm_region,249,Indonesia,Asia,val
+indonesia_batang_hari_bedaro_agm_region,14,Indonesia,Asia,train
+indonesia_west_kalimantan_selimbau_agm_region_TSTM,6,Indonesia,Asia,train
+mongolia_gatsuurt_agm_region,57,Mongolia,Asia,test
+myanmar_chindwin_river_hkamti_agm_region,857,Myanmar,Asia,train
+myanmar_chindwin_river_ningbyen_agm_region,775,Myanmar,Asia,train
+myanmar_namsi_awng_agm_region,392,Myanmar,Asia,train
+myanmar_theinkun_agm_region,386,Myanmar,Asia,train
+myanmar_kawbyin_agm_region_TSTM,319,Myanmar,Asia,train
+myanmar_maw_luu_agm_region,218,Myanmar,Asia,val
+phillipines_quiniput_downstream_agm_region_TSTM,9,Philippines,Asia,test
+russia_mongolia_border_agm_region,105,Russia,Asia,val
+russia_novotroitsk_agm_region_TSTM,80,Russia,Asia,train
+russia_tumnin_agm_region_TSTM,65,Russia,Asia,train
+russia_koryak_plateau,26,Russia,Asia,train
+russia_tumnin_tributary_agm_region_TSTM,13,Russia,Asia,train
+russia_edakuy_agm_region_TSTM,9,Russia,Asia,train
+nicaragua_somotillo_agm_region,52,Nicaragua,North America,test
+french_guiana_deux_branches_agm_region_TSTM,11,French Guiana,South America,test
+peru_la_pampa_south_agm_region,161,Peru,South America,train
+peru_rio_quimiri_downstream,75,Peru,South America,val
+peru_la_pampa_north_agm_region,67,Peru,South America,train
+peru_rio_inambari_channel_agm_region,44,Peru,South America,train
+peru_tournavista_agm_region_TSTM,11,Peru,South America,train
+venezuela_yapacana_south_agm_region_TSTM,130,Venezuela,South America,test
